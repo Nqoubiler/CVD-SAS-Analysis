@@ -27,12 +27,6 @@ The dataset includes 299 patients and 10 predictors:
 - **Not significant**: Smoking, Anaemia, High Blood Pressure, Diabetes, Gender (when adjusted)
 - Final model fits well with no overdispersion and identifies older age and low ejection fraction/sodium as key risk factors.
 
-## 👨‍🎓 Authors
-
-- Lungisani Mhlongo
-- Shahil Dukhi
-- Nqobile Sithole
-
 ## 📝 License
 
 This project is for academic purposes. Do not distribute without permission.
